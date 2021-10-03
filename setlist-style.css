@@ -3,13 +3,13 @@ body {
   display: block;
 
 }
-setlist {
+.setlist {
   display: block;
   font-family: sans-serif;
   font-style: oblique;
 }
 
-song {
+.song {
   display: block;
   background-color: #EAE9ED;
   padding: 10px;
@@ -17,7 +17,7 @@ song {
   margin-left: auto;
 }
 
-name, artist, genre, date {
+.name, .artist, .genre, .date {
   display:block;
   text-align: center;
 }
