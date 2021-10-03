@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Playlist>
+    <title>Assignment 3: My Coming of Age XML Setlist</title>
+    <song>
+      <name>August</name>
+      <artist>Taylor Swift</artist>
+      <genre>Alternative/Indie</genre>
+      <date>2020</date>
+    </song>
+
+    <song>
+      <name>Where is my mind?</name>
+      <artist>Pixies</artist>
+      <genre>Rock</genre>
+      <date>1988</date>
+    </song>
+
+    <song>
+      <name>Homemade Dynamite</name>
+      <artist>Lorde (Ft. Khalid, Post Malone, and SZA)</artist>
+      <genre>Pop</genre>
+      <date>2017</date>
+    </song>
+
+    <song>
+      <name>Ribs</name>
+      <artist>Lorde</artist>
+      <genre>Pop</genre>
+      <date>2013</date>
+    </song>
+
+    <song>
+      <name>Vienna</name>
+      <artist>Billy Joel</artist>
+      <genre>Rock</genre>
+      <date>1977</date>
+    </song>
+
+    <song>
+      <name>Lemon Glow</name>
+      <artist>Beach House</artist>
+      <genre>Alternative/Indie</genre>
+      <date>2015</date>
+    </song>
+
+    <song>
+      <name>Ghost Town</name>
+      <artist>Kanye West (ft. PARTYNEXTDOOR)</artist>
+      <genre>Hip-Hop/Rap</genre>
+      <date>2018</date>
+    </song>
+
+    <song>
+      <name>Brazil</name>
+      <artist>Declan McKenna</artist>
+      <genre>Alternative/Indie</genre>
+      <date>2015</date>
+    </song>
+
+    <song>
+      <name>Long Live</name>
+      <artist>Taylor Swift</artist>
+      <genre>Country</genre>
+      <date>2010</date>
+    </song>
+
+    <song>
+      <name>There She Goes</name>
+      <artist>The La's</artist>
+      <genre>Rock</genre>
+      <date>1990</date>
+    </song>
+</Playlist>
