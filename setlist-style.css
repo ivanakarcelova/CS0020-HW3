@@ -1,6 +1,7 @@
 setlist {
   background-color: #FFFCAD;
   display: block;
+  text-align: center;
 
 }
 
@@ -8,6 +9,7 @@ setlist {
   display: block;
   font-family: sans-serif;
   font-style: oblique;
+  border: line;
 }
 
 song {
