@@ -3,7 +3,7 @@ body {
   display: block;
 
 }
-/* setlist {
+setlist {
   display: block;
   font-family: sans-serif;
   font-style: oblique;
@@ -20,4 +20,4 @@ song {
 name, artist, genre, date {
   display:block;
   text-align: center;
-} */
+}
