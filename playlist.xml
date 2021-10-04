@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type=“text/css” href = “setlist-style.css” ?>
 
-<Playlist>
+<setlist>
+
     <title>Assignment 3: My Coming of Age XML Setlist</title>
+
     <song>
       <name>August</name>
       <artist>Taylor Swift</artist>
@@ -71,4 +74,5 @@
       <genre>Rock</genre>
       <date>1990</date>
     </song>
-</Playlist>
+
+</setlist>
