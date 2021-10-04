@@ -1,4 +1,4 @@
-body {
+head {
   background-color: #FFFCAD;
   display: block;
 
@@ -17,7 +17,7 @@ song {
   margin-left: auto;
 }
 
-name, artist, genre, date {
+title, name, artist, genre, date {
   display:block;
   text-align: center;
 }
