@@ -1,8 +1,9 @@
-head {
+setlist {
   background-color: #FFFCAD;
   display: block;
 
 }
+
 setlist {
   display: block;
   font-family: sans-serif;
@@ -17,7 +18,7 @@ song {
   margin-left: auto;
 }
 
-title, name, artist, genre, date {
+name, artist, genre, date {
   display:block;
   text-align: center;
 }
